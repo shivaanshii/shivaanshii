@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivaanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **MERN stack backend: Node.js | Express.js | MongoDB** 
+
 
 - 📫 How to reach me **shivaanshi01@gmail.com**
 
